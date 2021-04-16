@@ -1,0 +1,22 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1515144225933-899dcb0ca32e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=375&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+.wrapped {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+#user-choice {
+  color: #27c1e0;
+}
+
+#computer-choice {
+  color: #29bb89;
+}
+
+.score {
+  display: flex;
+  justify-content: space-around;
+}
